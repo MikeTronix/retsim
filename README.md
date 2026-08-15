@@ -2,7 +2,13 @@
 
 > [!WARNING]
 > **USE AT YOUR OWN RISK -- THIS PRODUCT DOES NOT CONSTITUTE INVESTMENT ADVICE**  
-> *This software is designed solely for educational, research, and modeling purposes. It does not provide financial, investment, tax, or legal advice. Users are strongly encouraged to consult with qualified, fiduciary financial advisors and certified tax professionals before making any financial decisions.*
+> *This software is designed solely for educational, research, and modeling purposes. It does not provide financial, investment, tax, or legal advice. Users are strongly encouraged to consult with [...]
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
